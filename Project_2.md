@@ -15,3 +15,5 @@ The database for sentiment analysis was grabbed from one of previous Kaggle comp
 #### Conclusion
 
 #### References
+#### DATA SOURCE
+https://www.kaggle.com/competitions/tweet-sentiment-extraction/data
