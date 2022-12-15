@@ -15,9 +15,11 @@ A minimum value product in tweet sentiment analysis might be a Twitter user or c
 I was unfortunately not able to work on the error for Botometer - even though I separately requested access, it was not able to go through. 
 
 Instead of using Botometer, I was able to access some tweet database through Kaggle, and decided to work with the data provided by them. 
+
 `Train data from Kaggle`
 ![Screenshot 2022-12-15 at 6 29 24 AM](https://user-images.githubusercontent.com/91296660/207848253-ec255775-822e-460c-bc2b-7b34d9eb084c.png)
 The train data from Kaggle was organized by the text ID, text, selected text, and the sentiment - divided in neural, negative, positive categories. 
+
 `Grouped by sentiment and given general description of data`
 ![Screenshot 2022-12-15 at 6 31 24 AM](https://user-images.githubusercontent.com/91296660/207848677-921cd5fd-6096-4590-bf29-fae5a18bdee1.png)
 
