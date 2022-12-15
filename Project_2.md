@@ -24,10 +24,15 @@ The train data from Kaggle was organized by the text ID, text, selected text, an
 `Grouped by sentiment and given general description of data`
 ![Screenshot 2022-12-15 at 6 31 24 AM](https://user-images.githubusercontent.com/91296660/207848677-921cd5fd-6096-4590-bf29-fae5a18bdee1.png)
 
-Unfortunately, I was not able to get Google NLP sentiment analyzer to work. 
+Unfortunately, I was not able to get Google NLP sentiment analyzer to work. But I was able to generate some wordclouds, which can also help understand the overall sentiment of the collected tweets. 
 
+`Word cloud of positive sentiment tweets`
+![Screenshot 2022-12-15 at 6 35 59 AM](https://user-images.githubusercontent.com/91296660/207849523-aab9f1ff-3bfb-4024-b650-f9f9035dbc18.png)
 
-#### Conclusion
+`Word cloud of negative sentiment tweets`
+![Screenshot 2022-12-15 at 6 36 19 AM](https://user-images.githubusercontent.com/91296660/207849585-ec6922a5-6940-4d63-b340-31519b06525d.png)
+
+This product on evaluating tweets by their sentiment, if a sentiment analyzing NLP can be implemented, can provide useful information for the user by categorizing tweets or text of interest using sentiment analysis and then generating word clouds or other informative resources to understand the tweets as a whole. 
 
 #### References
 #### DATA SOURCE
